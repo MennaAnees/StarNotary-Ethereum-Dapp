@@ -28,8 +28,8 @@
 // const fs = require('fs');
 // const mnemonic = fs.readFileSync(".secret").toString().trim();
 const HDWalletProvider = require('truffle-hdwallet-provider');
-const infuraKey = "c2eafcf2115442ab95149de4d940e817";
-const mnemonic = 'canal soda stairs brain clinic misery inform quiz tomato sight bright dragon';
+const infuraKey = "<YOU_INFURE_KEY_API>";
+const mnemonic = '<YOUR_MNEMONIC_SEED>';
 
 module.exports = {
   /**
